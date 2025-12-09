@@ -1,3 +1,4 @@
+(project on hold for a little while)
 # Fall Detection Using OpenPose and MobileNetV2
 
 This implementation has two steps:
